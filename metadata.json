@@ -1,0 +1,6 @@
+{
+  "name": "Chotu & Mottu Inventory",
+  "description": "A smart inventory tracker for Chotu & Mottu. Manage diapers, feeding supplies, and nursery essentials with shared access and low-stock alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
